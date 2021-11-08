@@ -3,7 +3,7 @@ Website for my twine games for IASC-1P04 at Brock
 
 ## Playtest
 
-Playtest my game [here](Playtest/playtest)
+Playtest my game [here](playtest/playtest)
 
 ## Prototype
 
